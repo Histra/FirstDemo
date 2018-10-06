@@ -8,7 +8,7 @@
 
 1. 打开Visual Studio2017，文件->新建->项目，选择
 
-   ![1538733519755](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1538733519755.png)
+   ![1538733519755](https://github.com/Histra/FirstDemo/blob/master/1538733519755.png)
 
 2. 把老师提供的代码敲一遍
 
@@ -16,11 +16,11 @@
 
 4. 在源程序目录下新建data文件夹用于存放数据图片的结果图片。
 
-   ![1538733734711](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1538733734711.png)
+   ![1538733734711](https://github.com/Histra/FirstDemo/blob/master/1538733734711.png)
 
 5. 修改代码中的图片路径及名称：
 
-   ![1538734051190](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1538734051190.png)
+   ![1538734051190](https://github.com/Histra/FirstDemo/blob/master/1538734051190.png)
 
 6. 下载老师给的gdal文件夹、gdal_i.lib和gdal18.dll。把gdal文件夹和gdal_i.lib拷贝到项目目录下，把gdal18.dll拷贝到Release文件夹下。
 
@@ -33,14 +33,14 @@
 
 7. 调试后运行程序，结果如下：
 
-   ![1538733887353](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1538733887353.png)
+   ![1538733887353](https://github.com/Histra/FirstDemo/blob/master/1538733887353.png)
 
    打开data文件夹：
 
-   ![1538733963670](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1538733963670.png)
+   ![1538733963670](https://github.com/Histra/FirstDemo/blob/master/1538733963670.png)
 
 8. 打开Input.jpg的属性界面，检查输出结果是否正确：
-   ![1538734366523](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1538734366523.png) 
+   ![1538734366523](https://github.com/Histra/FirstDemo/blob/master/1538734366523.png) 
    显然，结果正确。
 
 #### 实验中遇到的问题以及解决方法：
